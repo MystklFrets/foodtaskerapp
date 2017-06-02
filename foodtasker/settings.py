@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'foodtaskerapp',
-    # 'social_django',
+    'social_django',
     'oauth2_provider',
     'social.apps.django_app.default',
     'rest_framework_social_oauth2',
